@@ -1,0 +1,1 @@
+{"id":"req-001","timestamp":"2026-10-22T14:02:10Z","method":"POST","url":"/api/v1/checkout","status":409,"request_headers":{},"response_body":{"code":"CART_VERSION_CONFLICT"}}

@@ -1,0 +1,12 @@
+{
+  "name": "@qa-assistant/web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "tsx watch src/index.ts",
+    "lint": "eslint src",
+    "test": "node -e \"console.log('web: no tests yet')\""
+  }
+}

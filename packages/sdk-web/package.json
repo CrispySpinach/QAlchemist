@@ -1,0 +1,11 @@
+{
+  "name": "@qa-assistant/sdk-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "lint": "eslint src",
+    "test": "node -e \"console.log('sdk-web: no tests yet')\""
+  }
+}

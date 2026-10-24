@@ -1,0 +1,5 @@
+{
+  "type": "unhandled_exception",
+  "message": "Cannot read properties of undefined",
+  "stack": "Error: Cannot read properties of undefined\n    at submitCheckout (checkout.js:42:11)"
+}

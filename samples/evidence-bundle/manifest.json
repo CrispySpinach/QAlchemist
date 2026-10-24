@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "id": "E-1042",
+  "product": "checkout-web",
+  "build": {
+    "git_sha": "9f3c1ab",
+    "version": "2.8.0",
+    "sourcemap_id": "sm-7712"
+  },
+  "captured_at": "2026-10-22T14:02:13Z",
+  "source": "sdk-web",
+  "tester_notes": {
+    "steps": ["Buka keranjang", "Pakai voucher DISK10", "Klik Bayar"],
+    "expected": "Ada konfirmasi atau pesan error",
+    "actual": "Spinner terus, tombol tidak bisa diklik lagi"
+  },
+  "policy": {
+    "redacted": true,
+    "retention_days": 14
+  }
+}

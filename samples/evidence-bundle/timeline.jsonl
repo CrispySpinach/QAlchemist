@@ -1,0 +1,2 @@
+{"id":"evt-001","timestamp":"2026-10-22T14:02:08Z","type":"navigation","message":"Open /checkout"}
+{"id":"evt-002","timestamp":"2026-10-22T14:02:11Z","type":"network","message":"POST /api/v1/checkout 409"}
